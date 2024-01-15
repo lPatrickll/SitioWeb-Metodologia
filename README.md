@@ -1,2 +1,2 @@
 # SitioWeb-Metodologia
-# Desarrollador: Patrick Alan Gonzales Quintana
+Desarrollador: Patrick Alan Gonzales Quintana
